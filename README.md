@@ -16,4 +16,6 @@ BACK END<br/>
 ### 3. ProJect Folder 구조<br/>
 ![image](https://user-images.githubusercontent.com/31757314/178143417-c1c9fb71-b671-4ef6-bb7d-dbe199c9ee99.png)
 
+### 4. API<br/>
+![image](https://user-images.githubusercontent.com/31757314/178143620-bad1d7dc-715f-4032-b55b-f9fca2714bc9.png)
 
