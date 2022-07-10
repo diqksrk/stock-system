@@ -33,6 +33,9 @@ Application layer : 외부 영역과 Domain 영역 사이에서 추상화 역할
 
 ### 5. API Detail<br/>
 ![image](https://user-images.githubusercontent.com/31757314/178143680-aba33b87-d3c4-447b-ae28-4830ed0ada36.png)
-page 처리 및 Hateoas를 통한 Self Link 및 관련 Link까지 API를 통해 전송
+API 전송시 포함되는 영역<br/>
+1. PAGE 처리를 함으로써, PAGE 관련 정보( TOTAL COUNT, PER PAGE SIZE 등)<br/>
+2. 전송 DATA<br/>
+3. LINK ( SPRING HATEOAS를 활용하여, SEL LINK 및 관련 UPDATE LINK까지 포함)<br/>
 
 
