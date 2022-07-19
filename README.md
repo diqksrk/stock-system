@@ -25,7 +25,7 @@ Domain 역할과 비즈니스 로직과 외부 계층과의 의존성과 결합�
 Presentation layer : 외부 요청을 처리하는 영역<br/>
 Infrastructure layer : 설정과 전반적인 layer에게 영향을 끼치는 영역<br/>
 Domain Layer : 핵심적인 비즈니스 로직을 담당하는 영역<br/>
-Application layer : 외부 영역과 Domain 영역 사이에서 추상화 역할을 담당하여 연결을 담당하는 영역<br/>
+Application layer : 외부영역과 Domain 영역 사이에서 추상화 역할을 담당하여 연결을 담당하는 영역<br/>
 으로 나누었습니다.<br/>
 
 ### 4. API<br/>
